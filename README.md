@@ -11,7 +11,7 @@
 
 ## 💻 About Me
 
-I'm a Computer Science post-graduate (MCA, 2012) with a passion for continuous learning and self-improvement. I have experience as a Process Associate and am currently enhancing my skills in:
+I'm a Computer Science post-graduate (MCA, 2012) with a passion for continuous learning and self-improvement. I am currently enhancing my skills in:
 
 - 🔹 **Python Development**
 - 🔹 **Angular & Web Technologies**
