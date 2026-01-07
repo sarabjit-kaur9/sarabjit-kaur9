@@ -28,15 +28,6 @@ I'm a Computer Science post-graduate (MCA, 2012) with a passion for continuous l
 
 
 
-## 🚀 Projects & Highlights
-
-- 📝 **Personal Portfolio Website**  
-  Built using HTML/CSS and hosted on GitHub Pages  
-  🔗 [sarabjitkaur-blogger.github.io](https://sarabjitkaur-blogger.github.io)
-
-
-
-- 🎹 Kirtan lover and harmonium player — blending tech and tradition
 
 
 
@@ -52,11 +43,6 @@ I'm a Computer Science post-graduate (MCA, 2012) with a passion for continuous l
 
 
 
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sarabjit-kaur/)
-  
-- 🌐 [My Website](https://sarabjitkaur-blogger.github.io)
 
 
 > "Every day is a new opportunity to learn and grow." 🌱
